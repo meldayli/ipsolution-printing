@@ -1,0 +1,23 @@
+.slider h3,
+.slider h5,
+.clints h3{
+	text-shadow: 5px 5px 7px rgba(0,0,0,15);
+}
+
+.parallax-container {
+	height:20%;
+}
+
+.parallax img{
+	filter:grayscale(2);
+	opacity: 0.5 !important;
+}
+
+.clients img{
+	max-width: 150px;
+	filter:drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+
+section, footer {
+	padding: 20px 0;
+}
